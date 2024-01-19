@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q1kiUMUvv5wp3ZP7NlWSDzEY7mx5jumJUWaAv9L/zdQLg3jeWTzEPCFXpvBo8hbHHZzv+JsOme1/B1B2Pdwjrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\GitHub\\APL_PROJECT\\Csharp\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
